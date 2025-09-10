@@ -1,0 +1,4 @@
+mysql-connector-python
+pyttsx3
+python-dotenv
+vosk   # when you add voice support
